@@ -1,0 +1,1 @@
+<p>&copy; Sitio web desarrollado por <a href="/">@BeeCloud.</a></p>
