@@ -69,9 +69,9 @@
     <div class="container">
         <div class="sec-title text-center">
             <div class="sub-title">
-                <h3>En Beecloud,</h3>
+                <h3>En Bee Cloud Systems,</h3>
             </div>
-            <h2>Nos comprometemos a proteger la privacidad y la seguridad<br> de la informacion de nuestros usuarios.</h2>
+            <h2>Nos comprometemos a proteger la privacidad de nuestros usuarios y clientes. <br> Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información personal que nos proporcionan a través de WhatsApp y nuestros servicios relacionados.</h2>
         </div>
         <div class="row">
 
@@ -85,64 +85,66 @@
                         </div>
                         <div class="text-holder">
                             <div class="text">
-                                <h2>Esta política de privacidad describe cómo recopilamos, utilizamos, compartimos y protegemos la información personal y no personal que nos proporcionan nuestros usuarios a través de nuestro sitio web <a href="/" style="color: #fca817;">Bee Cloud</a>.</h2>
-                                </br>
-
-                                <h4>Recopilación de información</h4>
-                                
-                                <h3>Recopilamos información personal y no personal de nuestros usuarios de las siguientes maneras:</h3>
-                                
-                                <ol>
-                                    <li>Información personal: Recopilamos información personal cuando nuestros usuarios se registran en nuestro sitio web, completan un formulario de contacto, o nos proporcionan información personal a través de otros medios. La información personal que recopilamos puede incluir, pero no se limita a, nombre, dirección de correo electrónico, dirección física, número de teléfono y información de pago.</li>
-                                    <li>Información no personal: Recopilamos información no personal cuando nuestros usuarios visitan nuestro sitio web, incluyendo, pero no limitado a, la dirección IP, el tipo de navegador, el sistema operativo, la fecha y hora de la visita, y las páginas visitadas.</li>
-                                </ol>
-                                </br>
-                                
-                                <h4>Uso de la información</h4>
-                                
-                                <h3>Utilizamos la información personal y no personal que recopilamos para los siguientes fines:</h3>
-                                
-                                <ol>
-                                    <li>Proporcionar servicios: Utilizamos la información personal para proporcionar servicios a nuestros usuarios, incluyendo, pero no limitado a, la creación de cuentas de usuario, la gestión de proyectos, y la facturación.</li>
-                                    <li>Mejorar la experiencia del usuario: Utilizamos la información no personal para mejorar la experiencia del usuario en nuestro sitio web, incluyendo, pero no limitado a, la personalización de contenido, la optimización de la velocidad de carga, y la detección de errores.</li>
-                                    <li>Marketing y publicidad: Utilizamos la información personal y no personal para enviar correos electrónicos de marketing y publicidad a nuestros usuarios, incluyendo, pero no limitado a, ofertas especiales, noticias de la empresa, y actualizaciones de productos.</li>
-                                    <li>Cumplimiento de la ley: Utilizamos la información personal y no personal para cumplir con las leyes y regulaciones aplicables, incluyendo, pero no limitado a, la respuesta a citaciones judiciales, la cooperación con las autoridades policiales, y el cumplimiento de las leyes de protección de datos.</li>
-                                </ol>
-                                </br>
-                                
-                                <h4>Compartir la información</h4>
-                                
-                                <h3>No compartimos la información personal de nuestros usuarios con terceros, excepto en los siguientes casos:</h3>
-                                
-                                <ol>
-                                    <li>Proveedores de servicios: Compartimos la información personal con nuestros proveedores de servicios, incluyendo, pero no limitado a, los proveedores de servicios de pago, los proveedores de servicios de hosting, y los proveedores de servicios de marketing.</li>
-                                    <li>Afiliados: Compartimos la información personal con nuestros afiliados, incluyendo, pero no limitado a, los afiliados de marketing, los afiliados de ventas, y los afiliados de soporte técnico.</li>
-                                    <li>Cumplimiento de la ley: Compartimos la información personal con las autoridades policiales, los tribunales, y otras entidades gubernamentales, en cumplimiento de las leyes y regulaciones aplicables.</li>
-                                </ol>
-                                </br>
-                                
-                                <h4>Seguridad de la información</h4>
-                                
-                                <h3>Tomamos medidas de seguridad razonables para proteger la información personal y no personal de nuestros usuarios, incluyendo, pero no limitado a:</h3>
-                                
-                                <ol>
-                                    <li>Cifrado: Utilizamos cifrado para proteger la información personal y no personal que se transmite a través de nuestro sitio web.</li>
-                                    <li>Firewalls: Utilizamos firewalls para bloquear el acceso no autorizado a nuestro sitio web y a nuestros servidores.</li>
-                                    <li>Actualizaciones de seguridad: Realizamos actualizaciones de seguridad regulares para asegurarnos de que nuestro sitio web y nuestros servidores estén protegidos contra las últimas amenazas de seguridad.</li>
-                                    <li>Acceso restringido: Restringimos el acceso a la información personal y no personal de nuestros usuarios a los empleados y contratistas que necesitan acceder a esa información para realizar sus funciones.</li>
-                                </ol>
-                                </br>
-                                <h4>Derechos de los usuarios</h4>
-                                
-                                <h3>Los usuarios tienen los siguientes derechos en relación con su información personal:</h3>
-                                
-                                <ol>
-                                    <li>Acceso: Los usuarios tienen derecho a acceder a su información personal y a solicitar una copia de esa información.</li>
-                                    <li>Corrección: Los usuarios tienen derecho a solicitar la corrección de cualquier error o inexactitud en su información personal.</li>
-                                    <li>Eliminación: Los usuarios tienen derecho a solicitar la eliminación de su información personal.</li>
-                                    <li>Objeción: Los usuarios tienen</li>
-                                </ol>
-                                 <br>
+<ol>
+<li>Información recopilada</li>
+</br>
+<p>Recopilamos información personal cuando nuestros usuarios y clientes interactúan con nosotros a través de WhatsApp. Esta información puede incluir:</p>
+    <ul>
+        <li>Número de teléfono</li>
+        <li>Nombre y apellidos</li>
+        <li>Dirección de correo electrónico</li>
+        <li>Información de ubicación</li>
+        <li>Historial de conversaciones y mensajes</li>
+        <li>Información de dispositivo y navegador</li>
+    </ul>
+<li>Uso de la información</li>
+</br>
+<p>Utilizamos la información recopilada para:</p>
+    <ul>
+        <li>Proporcionar nuestros servicios y responder a sus consultas</li>
+        <li>Mejorar y personalizar su experiencia con nuestros servicios</li>
+        <li>Enviarle información y promociones sobre nuestros productos y servicios</li>
+        <li>Cumplir con nuestras obligaciones legales y regulatorias</li>
+    </ul>
+<li>Protección de la información</li>
+</br>
+<p>Tomamos medidas de seguridad razonables para proteger la información personal que nos proporcionan. Estas medidas incluyen:</p>
+    <ul>
+        <li>Cifrado de la información en tránsito y en reposo</li>
+        <li>Autenticación y autorización de acceso a la información</li>
+        <li>Monitoreo y respuesta a incidentes de seguridad</li>
+    </ul>
+<li>Compartir información</li>
+</br>
+<p>No compartimos la información personal que nos proporcionan con terceros, excepto en los siguientes casos:</p>
+    <ul>
+        <li>Cuando tenga su consentimiento explícito</li>
+        <li>Cuando sea necesario para cumplir con nuestras obligaciones legales y regulatorias</li>
+        <li>Cuando sea necesario para proteger nuestros derechos y propiedades</li>
+    </ul>
+<li>Derechos de los usuarios</li>
+</br>
+<p>Los usuarios tienen los siguientes derechos:</p>
+    <ul>
+        <li>Derecho de acceso a su información personal</li>
+        <li>Derecho de rectificación y actualización de su información personal</li>
+        <li>Derecho de cancelación y eliminación de su información personal</li>
+        <li>Derecho de oposición al tratamiento de su información personal</li>
+    </ul>
+<li>Cambios a esta política</li>
+</br>
+<p>Podemos actualizar esta política de privacidad en cualquier momento. Cuando lo hagamos, publicaremos la versión actualizada en nuestro sitio web y la fecha de actualización.</p>
+<li>Contacto</li>
+</br>
+<p>Si tiene alguna pregunta o inquietud sobre esta política de privacidad, por favor no dude en contactarnos a través de WhatsApp o en [dirección de correo electrónico].</p>
+</br>
+<p>Al utilizar nuestros servicios, acepta esta política de privacidad y nos autoriza a recopilar, utilizar y proteger su información personal de acuerdo con lo establecido en esta política.</p>
+</br>
+Fecha de actualización: 22/01/2025
+Bee Cloud Systems
+contacto@beecloud.com.mx
+446 290 6191
+</ol>
                             </div>
                             <div class="client-info">
                                 <div class="img-box">

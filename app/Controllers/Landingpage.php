@@ -13,6 +13,7 @@ class Landingpage extends BaseController
             'whatsapp' => "446 290 6191",
             'mobile' => "446 290 6191",
             'email_contacto' => "contacto@beecloud.com.mx",
+            'email_info' => "info@beecloud.com.mx",
             'url_facebook' => "https://www.facebook.com/beecloud",
             'url_twitter' => "https://www.twitter.com/beecloud",
             'url_instagram' => "https://www.instagram.com/beecloud"
@@ -28,6 +29,7 @@ class Landingpage extends BaseController
             'whatsapp' => "446 290 6191",
             'mobile' => "446 290 6191",
             'email_contacto' => "contacto@beecloud.com.mx",
+            'email_info' => "info@beecloud.com.mx",
             'url_facebook' => "https://www.facebook.com/beecloud",
             'url_twitter' => "https://www.twitter.com/beecloud",
             'url_instagram' => "https://www.instagram.com/beecloud"
@@ -43,6 +45,7 @@ class Landingpage extends BaseController
             'whatsapp' => "446 290 6191",
             'mobile' => "446 290 6191",
             'email_contacto' => "contacto@beecloud.com.mx",
+            'email_info' => "info@beecloud.com.mx",
             'url_facebook' => "https://www.facebook.com/beecloud",
             'url_twitter' => "https://www.twitter.com/beecloud",
             'url_instagram' => "https://www.instagram.com/beecloud"
