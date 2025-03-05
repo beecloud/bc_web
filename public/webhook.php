@@ -26,7 +26,7 @@
 		}
 	}
 
-	if ($_SERVER['REQUEST_METHOD']==='POST'){
+	if ($_SERVER['REQUEST_METHOD'] === 'POST'){
 		$input = file_get_contents('php://input');
 		$data = json_decode($input,true);
 
