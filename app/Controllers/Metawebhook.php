@@ -7,11 +7,11 @@ use CodeIgniter\HTTP\ResponseInterface;
 
 class Metawebhook extends BaseController
 {
-    public function index()
+    public function index($req,$res)
     {
         // API Meta 
         const TOKEN_BEECLOUD = "BEECLOUDAPIPHPMETA";
-        const WEBHOOK_URL = "https://beecloud.com.mx/metawebhook";
+        const WEBHOOK_URL = "https://www.beecloud.com.mx/webhook.php";
 
         function verificarToken($req,$res){
             try{
