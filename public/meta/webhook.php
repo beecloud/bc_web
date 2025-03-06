@@ -1,7 +1,7 @@
 <?php
 
 	const TOKEN_BEECLOUD = "BEECLOUDAPIPHPMETA";
-	const WEBHOOK_URL = "https://www.beecloud.com.mx/webhook.php";
+	const WEBHOOK_URL = "https://www.beecloud.com.mx/meta/webhook.php";
 
 	function verificarToken($req,$res){
 		try{
