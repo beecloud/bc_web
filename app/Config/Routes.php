@@ -7,7 +7,7 @@ use CodeIgniter\Router\RouteCollection;
  */
 
 #$routes->get('/', 'Home::index');
-$routes->get('/', 'Muy_pronto::index');
+$routes->get('/', 'Landingpage::index');
 
 $routes->get('/landingpage', 'Landingpage::index');
 $routes->get('/privacidad', 'Landingpage::privacidad');

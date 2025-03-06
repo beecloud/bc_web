@@ -19,7 +19,7 @@ class Landingpage extends BaseController
             'url_instagram' => "https://www.instagram.com/beecloud"
         ];
 
-        return view("lp_v", $data);
+        return view("lp_welcome_v", $data);
     }
 
     public function privacidad()
