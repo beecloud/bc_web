@@ -1,2 +1,8 @@
-# Folders Ignorados
-./dontupload
+./*.DS_Store
+.env
+.htaccess
+public/*.html
+public/Docs
+writable/debugbar/*
+writable/logs/*
+writable/session/*
