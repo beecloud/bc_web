@@ -1195,8 +1195,8 @@
 
                         <div class="bottom-box">
                             <ul>
-                                <li><a href="#">Privacidad</a></li>
-                                <li><a href="#">Terminos & Condiciones </a></li>
+                                <li><a href="/privacidad">Privacidad</a></li>
+                                <li><a href="/terminos-y-condiciones">Terminos & Condiciones </a></li>
                             </ul>
                         </div>
 
